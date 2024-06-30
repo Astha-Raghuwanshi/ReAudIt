@@ -43,12 +43,12 @@ This document provides a high-level overview of the technical architecture for t
 
 ### Technology Stack (Considerations):
 
-* Programming Languages: Python (widely used in data science and AI) or Java (popular for enterprise applications).
-* Data Storage: Relational database (e.g., PostgreSQL) for storing structured transaction data and a NoSQL database (e.g., MongoDB) for semi-structured or unstructured data. 
-* AI Frameworks: TensorFlow, PyTorch, or scikit-learn for building and deploying generative AI models.  
-* Web Frameworks (if applicable): Django (Python) or Spring Boot (Java) for developing the user interface and backend functionalities.
+* Programming Languages: Python  or Java .
+* Data Storage: Relational database  for storing structured transaction data and a NoSQL database for semi-structured or unstructured data. 
+* AI Frameworks: Microdoft Azure OpenAI, TensorFlow, PyTorch, or scikit-learn for building and deploying generative AI models.  
+* Web Frameworks : Django (Python) or Spring Boot (Java) for developing the user interface and backend functionalities.
 * Data Visualization Libraries: Matplotlib (Python) or Plotly for creating interactive visualizations within reports.
-* Cloud Infrastructure (Optional): Consider cloud platforms like AWS, Azure, or GCP for scalability, flexibility, and managed services.
+* Cloud Infrastructure :Cloud platforms like Microsoft Azure for scalability, flexibility, and managed services.
 
 
 ### Security Considerations:
